@@ -6,10 +6,13 @@ This repo provides 2 classes
  - AMQJMSClient.java
  - AMQJMSConsumer.java
 
-Steps to run
+Steps to run:
 Clone this repo and import in to your favourite IDE
+
 You need classpath set up as per http://activemq.apache.org/initial-configuration.html
+
 Download AMQ from https://www.jboss.org/products/amq/overview/
+
 Unzip and go to /bin directory and run .amq script. You'll see an output like below
 
 [mmusaji@mmusaji bin]$ ./amq
