@@ -17,13 +17,6 @@ karaf: JAVA_HOME not set; results may vary
 Please wait, JBoss A-MQ is initializing...
 100% [========================================================================]
 
-      _ ____                                __  __  ____
-     | |  _ \                    /\        |  \/  |/ __ \
-     | | |_) | ___  ___ ___     /  \ ______| \  / | |  | |
- _   | |  _ < / _ \/ __/ __|   / /\ \______| |\/| | |  | |
-| |__| | |_) | (_) \__ \__ \  / ____ \     | |  | | |__| |
- \____/|____/ \___/|___/___/ /_/    \_\    |_|  |_|\___\_\
-
   JBoss A-MQ (6.2.1.redhat-084)
   http://www.redhat.com/products/jbossenterprisemiddleware/amq/
 
